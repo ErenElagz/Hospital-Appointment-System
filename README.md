@@ -71,7 +71,7 @@ Maybe Your PHPmyAdmin Username and password be different. Check in the src/php/d
 ![Screenshot 2023-06-30 174457](https://github.com/ErenElagz/Hospital-Appointment-System/assets/125195062/81af1491-6537-4e0c-8fb3-e03d9e48da8d)
 
 ## Licance
-This project wa my end of term project. I dont add any Licance. Good Luck <3
+This project waw my end of term project. I dont add any Licance. Good Luck <3
   
 ## Contact
 If you have any question or feedback, contact me via email to elagzeren@gmail.com
