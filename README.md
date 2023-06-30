@@ -1,4 +1,4 @@
-# Hospital Appointment Otomation System 
+# Hospital Appointment System 
 ## Featurws
 - Login - Logout System
 - Login Page
