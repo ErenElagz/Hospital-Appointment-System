@@ -65,7 +65,10 @@ Maybe Your PHPmyAdmin Username and password be different. Check in the src/php/d
  6. SQL (Just basic a few query)
 
 ## Screenshots
-
+![Screenshot 2023-06-30 174442](https://github.com/ErenElagz/Hospital-Appointment-System/assets/125195062/46a38305-8863-4ef1-b958-8c1e68643be1)
+![Screenshot 2023-06-30 174422](https://github.com/ErenElagz/Hospital-Appointment-System/assets/125195062/8de6eb55-7ce9-42d4-8dd7-230cdfd44c6c)
+![Screenshot 2023-06-30 174415](https://github.com/ErenElagz/Hospital-Appointment-System/assets/125195062/35e8543a-6671-4737-bbd6-021c34d458e5)
+![Screenshot 2023-06-30 174457](https://github.com/ErenElagz/Hospital-Appointment-System/assets/125195062/81af1491-6537-4e0c-8fb3-e03d9e48da8d)
 
 ## Licance
 This project wa my end of term project. I dont add any Licance. Good Luck <3
