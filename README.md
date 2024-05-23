@@ -1,5 +1,5 @@
 # Hospital Appointment System 
-## Featurws
+## Features
 - Login - Logout System
 - Login Page
 - Database table on the Admin Page
